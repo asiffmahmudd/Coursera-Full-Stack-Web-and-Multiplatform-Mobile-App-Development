@@ -1,0 +1,13 @@
+.jumbotron{
+	background: #9575CD;
+}
+
+.description p{
+	.d-sm-none .d-md-block
+}
+
+.footer{
+	margin-top:20px;
+	background-color: #D1C4E9;
+	padding:30px;
+}
